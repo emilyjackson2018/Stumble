@@ -2,6 +2,28 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Stumble.xcodeproj">
+      location = "group:View.xib">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Matches">
+   </Group>
+   <FileRef
+      location = "group:../Storyboard.storyboard">
+   </FileRef>
+   <FileRef
+      location = "group:Empty.xib">
+   </FileRef>
+   <FileRef
+      location = "group:../View.xib">
+   </FileRef>
+   <FileRef
+      location = "group:../Matches.storyboard">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../Desktop/268x274.png.a8014f08ac4444e4aab4b0ba3c0911b9.large">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

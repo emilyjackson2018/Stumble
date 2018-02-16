@@ -14,6 +14,9 @@
 		85210BB02033C5A200A621F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85210BAE2033C5A200A621F0 /* LaunchScreen.storyboard */; };
 		85210BBB2033C5A200A621F0 /* StumbleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85210BBA2033C5A200A621F0 /* StumbleTests.swift */; };
 		85210BC62033C5A200A621F0 /* StumbleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85210BC52033C5A200A621F0 /* StumbleUITests.swift */; };
+		855C2DA120366563002FC1CA /* Screen Shot 2018-02-15 at 8.02.44 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 855C2DA020366563002FC1CA /* Screen Shot 2018-02-15 at 8.02.44 PM.png */; };
+		855C2DA320366799002FC1CA /* stefan-stefancik-257625.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 855C2DA220366799002FC1CA /* stefan-stefancik-257625.jpg */; };
+		855C2DA720366D6C002FC1CA /* 151874587582452121.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 855C2DA620366D6C002FC1CA /* 151874587582452121.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		85210BC12033C5A200A621F0 /* StumbleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StumbleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		85210BC52033C5A200A621F0 /* StumbleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StumbleUITests.swift; sourceTree = "<group>"; };
 		85210BC72033C5A200A621F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		855C2DA020366563002FC1CA /* Screen Shot 2018-02-15 at 8.02.44 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2018-02-15 at 8.02.44 PM.png"; path = "../../../../../Desktop/Screen Shot 2018-02-15 at 8.02.44 PM.png"; sourceTree = "<group>"; };
+		855C2DA220366799002FC1CA /* stefan-stefancik-257625.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "stefan-stefancik-257625.jpg"; path = "../../../../../Downloads/stefan-stefancik-257625.jpg"; sourceTree = "<group>"; };
+		855C2DA620366D6C002FC1CA /* 151874587582452121.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 151874587582452121.jpeg; path = ../../../../../Desktop/151874587582452121.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +105,10 @@
 			children = (
 				85210BA52033C5A200A621F0 /* AppDelegate.swift */,
 				85210BA72033C5A200A621F0 /* ViewController.swift */,
+				855C2DA020366563002FC1CA /* Screen Shot 2018-02-15 at 8.02.44 PM.png */,
 				85210BA92033C5A200A621F0 /* Main.storyboard */,
+				855C2DA220366799002FC1CA /* stefan-stefancik-257625.jpg */,
+				855C2DA620366D6C002FC1CA /* 151874587582452121.jpeg */,
 				85210BAC2033C5A200A621F0 /* Assets.xcassets */,
 				85210BAE2033C5A200A621F0 /* LaunchScreen.storyboard */,
 				85210BB12033C5A200A621F0 /* Info.plist */,
@@ -234,6 +243,9 @@
 			files = (
 				85210BB02033C5A200A621F0 /* LaunchScreen.storyboard in Resources */,
 				85210BAD2033C5A200A621F0 /* Assets.xcassets in Resources */,
+				855C2DA120366563002FC1CA /* Screen Shot 2018-02-15 at 8.02.44 PM.png in Resources */,
+				855C2DA720366D6C002FC1CA /* 151874587582452121.jpeg in Resources */,
+				855C2DA320366799002FC1CA /* stefan-stefancik-257625.jpg in Resources */,
 				85210BAB2033C5A200A621F0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
