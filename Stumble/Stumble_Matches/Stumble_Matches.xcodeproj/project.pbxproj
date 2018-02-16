@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8543A76B20367AA800EF8D5B /* checked-filled.png in Resources */ = {isa = PBXBuildFile; fileRef = 8543A76A20367AA800EF8D5B /* checked-filled.png */; };
 		85D3E1C3203672920095BEB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D3E1C2203672920095BEB4 /* AppDelegate.swift */; };
 		85D3E1C5203672920095BEB4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D3E1C4203672920095BEB4 /* ViewController.swift */; };
 		85D3E1C8203672920095BEB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85D3E1C6203672920095BEB4 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8543A76A20367AA800EF8D5B /* checked-filled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "checked-filled.png"; path = "../../../../../../Desktop/School/Spring 2018/CSCI 4800/Term Project/Term Project images/checked-filled.png"; sourceTree = "<group>"; };
 		85D3E1BF203672920095BEB4 /* Stumble_Matches.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stumble_Matches.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85D3E1C2203672920095BEB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		85D3E1C4203672920095BEB4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				85D3E1C4203672920095BEB4 /* ViewController.swift */,
 				85D3E1C6203672920095BEB4 /* Main.storyboard */,
 				85D3E1F02036786D0095BEB4 /* checked-filled.png */,
+				8543A76A20367AA800EF8D5B /* checked-filled.png */,
 				85D3E1C9203672920095BEB4 /* Assets.xcassets */,
 				85D3E1CB203672920095BEB4 /* LaunchScreen.storyboard */,
 				85D3E1CE203672920095BEB4 /* Info.plist */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				85D3E1CD203672920095BEB4 /* LaunchScreen.storyboard in Resources */,
+				8543A76B20367AA800EF8D5B /* checked-filled.png in Resources */,
 				85D3E1F12036786D0095BEB4 /* checked-filled.png in Resources */,
 				85D3E1CA203672920095BEB4 /* Assets.xcassets in Resources */,
 				85D3E1C8203672920095BEB4 /* Main.storyboard in Resources */,
