@@ -10,6 +10,7 @@
 		7847C77B2038FA6600A4E83A /* SignIn.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7847C77A2038FA6600A4E83A /* SignIn.storyboard */; };
 		7847C77D2038FAE900A4E83A /* beelogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7847C77C2038FAE800A4E83A /* beelogo.png */; };
 		7847C77F2038FCCE00A4E83A /* beelogotrans.png in Resources */ = {isa = PBXBuildFile; fileRef = 7847C77E2038FCCC00A4E83A /* beelogotrans.png */; };
+		7847C781203A13CC00A4E83A /* SignUp.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7847C780203A13CC00A4E83A /* SignUp.storyboard */; };
 		85210BA62033C5A200A621F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85210BA52033C5A200A621F0 /* AppDelegate.swift */; };
 		85210BA82033C5A200A621F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85210BA72033C5A200A621F0 /* ViewController.swift */; };
 		85210BAB2033C5A200A621F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85210BA92033C5A200A621F0 /* Main.storyboard */; };
@@ -45,6 +46,7 @@
 		7847C77A2038FA6600A4E83A /* SignIn.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SignIn.storyboard; sourceTree = "<group>"; };
 		7847C77C2038FAE800A4E83A /* beelogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beelogo.png; sourceTree = "<group>"; };
 		7847C77E2038FCCC00A4E83A /* beelogotrans.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beelogotrans.png; sourceTree = "<group>"; };
+		7847C780203A13CC00A4E83A /* SignUp.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SignUp.storyboard; sourceTree = "<group>"; };
 		85210BA22033C5A200A621F0 /* Stumble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stumble.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85210BA52033C5A200A621F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		85210BA72033C5A200A621F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				85210BAE2033C5A200A621F0 /* LaunchScreen.storyboard */,
 				85210BB12033C5A200A621F0 /* Info.plist */,
 				7847C77A2038FA6600A4E83A /* SignIn.storyboard */,
+				7847C780203A13CC00A4E83A /* SignUp.storyboard */,
 			);
 			path = Stumble;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				85210BB02033C5A200A621F0 /* LaunchScreen.storyboard in Resources */,
 				85210BAD2033C5A200A621F0 /* Assets.xcassets in Resources */,
+				7847C781203A13CC00A4E83A /* SignUp.storyboard in Resources */,
 				7847C77F2038FCCE00A4E83A /* beelogotrans.png in Resources */,
 				855C2DA120366563002FC1CA /* Screen Shot 2018-02-15 at 8.02.44 PM.png in Resources */,
 				855C2DA720366D6C002FC1CA /* 151874587582452121.jpeg in Resources */,
